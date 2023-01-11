@@ -1,0 +1,7 @@
+{
+  "name": "TH_XD_FORM_DANG_KY_THANH_VIEN",
+  "version": "1.0.0",
+  "dependencies": {
+    "qs": "^6.11.0"
+  }
+}
